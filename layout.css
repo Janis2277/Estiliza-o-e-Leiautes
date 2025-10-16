@@ -1,0 +1,2 @@
+.container { display: grid; grid-template-columns: repeat(12, 1fr); gap: var(--space-24); }
+.flex { display: flex; align-items: center; justify-content: center; }
